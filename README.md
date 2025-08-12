@@ -1,4 +1,4 @@
 # Parth-Demo
 this is my first repo.
 </br>
-Author - Parth Patil
+Author - Parth MAhadev Patil
